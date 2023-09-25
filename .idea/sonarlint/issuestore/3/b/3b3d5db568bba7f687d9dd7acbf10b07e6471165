@@ -1,0 +1,18 @@
+
+`	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+l
+java:S1192""JDefine a constant instead of duplicating this literal "Data.xlsx" 3 times.(©æ±®úÿÿÿÿ8œ±ºÔ¬1
+h
+java:S1192""FDefine a constant instead of duplicating this literal "Datos" 3 times.(©æ±®úÿÿÿÿ8œ±ºÔ¬1
+\
+java:S1854"ARemove this useless assignment to local variable "escribirExcel".(”×è¶øÿÿÿÿ
+H
+java:S2440"-Remove this instantiation of "EscribirExcel".(”×è¶øÿÿÿÿ
+M
+java:S1481"2Remove this unused "escribirExcel" local variable.(”×è¶øÿÿÿÿ
+h
+java:S1128"FRemove this unused import 'net.serenitybdd.screenplay.actions.Scroll'.(ÆðŒÄþÿÿÿÿ8ëÔ­Ô¬1
+v
+java:S1128"YRemove this unused import 'org.bouncycastle.jcajce.provider.asymmetric.ec.KeyFactorySpi'.(£¬„®8†£¦Ô¬1
+P
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠÞ›8‹£­Ô¬1

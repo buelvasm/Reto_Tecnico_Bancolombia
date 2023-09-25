@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ingresar a la pagina de bancolombia personas buscar el simulador y diligenciar la informacion" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-25T04:24:05" hostname="SQAMBUELVAS" time="29.502">
+  <properties/>
+  <testcase name="Simular credito en la pagina de bancolombia personas de forma exitosa" classname="Ingresar a la pagina de bancolombia personas buscar el simulador y diligenciar la informacion" time="29.502"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[sep 24, 2023 11:24:05 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 117.0.5938.92 (67649b10b92bb182fba357831ef7dd6a1baa5648-refs/branch-heads/5938_62@{#14}) on port 38372
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+sep 24, 2023 11:24:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
